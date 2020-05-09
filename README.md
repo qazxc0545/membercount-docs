@@ -8,16 +8,16 @@ See the [website ](https://bit.ly/member-count)for more information.
 
 Cosmetic counters, aesthetically pleasing for both you and your server members. The counters automatically update so you can focus on the management of your server.
 
-> 📊**SERVER STATS**📊
+> 📊**伺服器目前狀態**📊
 >
->     Member Count: 1000  
->     User Count: 980  
->     Bot Count: 20  
->     Role Count: 80  
->     Channel Count: 80  
->     Moderator Count: 10  
->     Online Count: 800  
->     Offline Count: 200
+>     成員總人數: 1000  
+>     目前團員: 980  
+>     機器人數: 20  
+>     團會數: 80  
+>     頻道數: 80  
+>     幹部人數: 10  
+>     上線人數: 800  
+>     下線人數: 200
 
 ## Getting Started
 
